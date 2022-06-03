@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Manish Bagdwal working currently as Data Science Researcher at INSAID
-- 👀 I’m interested in listening music , playing cricket and games on e-platforms
-- 🌱 I’m currently learning computer vision 
+- 👋 Hi, I’m Manish Bagdwal working currently as Data Science Researcher at INSAID.
+- 👀 I’m interested in listening music , playing cricket and games on e-platforms.
+- 🌱 I’m currently learning computer vision and NLp.
 - 💞️ I’m looking to learn more technologies related to data science.
 - 📫 You could reach me at manishbagdwal9@gmail.com
 
